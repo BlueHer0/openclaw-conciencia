@@ -1,0 +1,16 @@
+# Secretos y datos sensibles
+secrets.env
+
+# Logs
+.openclaw/logs/
+
+# Propuestas y backups generados por Conciencia
+_conciencia/propuestas/
+_conciencia/backups/
+
+# Archivos temporales
+*.bak
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
